@@ -1,6 +1,6 @@
-name:           Bootstrap Blog
-description:    Official blog for the Bootstrap framework.
-url:            http://blog.getbootstrap.com
+name:           L&P Hosting Blog
+description:    Official blog for L&P Hosting.
+url:            http://blog.landphosting.com
 
 markdown:       kramdown
 highlighter:    pygments
