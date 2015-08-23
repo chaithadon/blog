@@ -27,9 +27,7 @@ h2, h3, h4 {
 
 /* Bootstrap "B" icon */
 .bs-docs-booticon {
-  display: block;
-  width: 6rem;
-
+  align: center;
 }
 .bs-docs-booticon:hover,
 .bs-docs-booticon:focus {
